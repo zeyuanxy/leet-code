@@ -1,4 +1,4 @@
 leetcode
 ========
 
-The code of LeetCode
+The code of LeetCode.
